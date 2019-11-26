@@ -17,7 +17,7 @@ LABEL org.opencontainers.image.title="Hello Kubernetes!" \
       org.opencontainers.image.source="https://github.com/paulbouwer/hello-kubernetes.git" \
       org.opencontainers.image.revision=$IMAGE_SOURCE_REVISION 
 
-# Create app directory
+## Create app directory
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
 
