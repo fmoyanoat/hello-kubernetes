@@ -1,7 +1,7 @@
 # Hello Kubernetes!
 
 This image can be deployed on a Kubernetes cluster. It displays:
-- a default **Hello world!** message
+- a default **Hello world!** message.
 - the pod name
 - node os information
 
