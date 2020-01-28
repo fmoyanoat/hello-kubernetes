@@ -1,4 +1,4 @@
-# Hello Kubernetes!
+# Hello Kubernetes!.
 
 This image can be deployed on a Kubernetes cluster. It displays:
 - a default **Hello world!** message.
